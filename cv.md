@@ -1,16 +1,16 @@
 # **M. Dmitry**
 # **Constacts**
-*   [Email](mailto:dibrugh@gmail.com)
-*   [Telegram](https://t.me/dibrugh)
-*   [Github](https://github.com/dibrugh)
++   [Email](mailto:dibrugh@gmail.com)
++   [Telegram](https://t.me/dibrugh)
++   [Github](https://github.com/dibrugh)
 
 # **About me**
 I am a 20+ years old person passionate about getting new information. Current goal is to absorb tons of information about web develompment and gain relevant skills.
 ### **Briefly**
-*   Newbie in Front-end Development
-*   Have experience in IT, but non-production
-*   Ready to dive deep into programming
-*   Analytical mind-set
++   Newbie in Front-end Development
++   Have experience in IT, but non-production
++   Ready to dive deep into programming
++  Analytical mind-set
 # **Code Example**
 ```function myFunction(login) {          
     if (login === "admin" || login === "Admin") {  
