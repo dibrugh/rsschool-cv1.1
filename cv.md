@@ -44,4 +44,4 @@ function myFunction(login) {
 
 + **Russian** - native;  
 + **English** - B2 (in fact, might be B1+ by now);  
-+**French** - A1.
++ **French** - A1.
