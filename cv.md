@@ -1,6 +1,6 @@
 # **M. Dmitry**
 # **Constacts**
-*   [Email](dibrugh@gmail.com)
+*   [Email](mailto:dibrugh@gmail.com)
 *   [Telegram](https://t.me/dibrugh)
 *   [Github](https://github.com/dibrugh)
 # **About me**
@@ -27,9 +27,9 @@ I am a 20+ years old person passionate about getting new information. Current go
 }
 ```
 # **Education**
-**BSEU** (FIBC)
+**BSEU** (FIBC)  
 **Stepik** [Web-технологии: начальный уровень](https://stepik.org/course/82108)
 # **Languages**
-**Russian** - native;
-**English** - B2 (in fact, might be B1+ by now);
+**Russian** - native;  
+**English** - B2 (in fact, might be B1+ by now);  
 **French** - A1.
