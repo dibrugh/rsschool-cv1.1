@@ -11,7 +11,8 @@ I am a 20+ years old person passionate about getting new information. Current go
 + Have experience in IT, but non-production
 + Ready to dive deep into programming
 + Analytical mind-set
-# Code Example
+
+# Code example
 ```function myFunction(login) {          
     if (login === "admin" || login === "Admin") {  
         console.log("Администрирование, Операции, Статистика, Роли.");  
