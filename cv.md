@@ -1,19 +1,17 @@
 # M. Dmitry
 
-# Constacts
+# Contacts
 
++ Minsk, Belarus
 + [Email](mailto:dibrugh@gmail.com)
-+ [Telegram](https://t.me/dibrugh)
 + [Github](https://github.com/dibrugh)
 
 # About me
 
 I am a 20+ years old person passionate about getting new information. Current goal is to absorb tons of information about web develompment and gain relevant skills.
 
-### Briefly
-
 + Newbie in Front-end Development
-+ Have experience in IT, but non-production
++ Have experience in IT, but non-production one
 + Ready to dive deep into programming
 + Analytical mind-set
 
